@@ -1,5 +1,1 @@
-
-
-print("Husein") x = 2
-
-Y = 10
+ana ismi abood
