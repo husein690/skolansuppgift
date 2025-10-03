@@ -1,4 +1,5 @@
 
 
-print("Husein")
-x = 2
+print("Husein") x = 2
+
+Y = 10
